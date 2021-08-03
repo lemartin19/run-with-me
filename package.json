@@ -32,7 +32,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
       "not op_mini all"
     ],
     "development": [
@@ -41,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://lemartin19.github.io"
+  "homepage": "https://lemartin19.github.io/run-with-me/"
 }
