@@ -18,5 +18,7 @@ const App = () => (
     </header>
   </div>
 );
+App.displayName = 'App';
+App.propTypes = {};
 
 export default App;
